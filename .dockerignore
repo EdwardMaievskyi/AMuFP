@@ -1,0 +1,10 @@
+.cursorignore
+.log
+logs/
+logs/*
+.env.example
+LICENSE
+README.md
+run.sh
+readme_imgs/
+readme_imgs/*
